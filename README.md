@@ -11,7 +11,7 @@ Ke direktori project
   cd Booking-service
 ```
 
--   Edit database di env.example atau hapus example
+-   Edit database di env.example atau hapus example (sesuaikan dengan database di sql )
 
 ```bash
     composer install
